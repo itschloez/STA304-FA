@@ -501,7 +501,7 @@ This result shows that changes in these two variables could affect the outcome o
 
 BIC results:
 Fitted model for Liberals:
-```{r,eval= FALSE, echo= TRUE}
+```{r,echo=FALSE}
 lm(formula = vote_liberal ~ as.factor(province) + as.factor(age_group) 
    + as.factor(bornin_canada), data = survey_data)
 ```
@@ -510,7 +510,7 @@ From BIC formula of the Liberals, the fitted model after using backward eliminat
 
 
 Fitted model for Conservatives:
-```{r,eval= FALSE, echo= TRUE}
+```{r,echo=FALSE}
 lm(formula = vote_conservative ~ as.factor(gender) + as.factor(province) 
    + as.factor(age_group), data = survey_data)
 ```
