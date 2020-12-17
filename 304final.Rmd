@@ -1,12 +1,10 @@
 ---
-title: General Prediction of the 2019 Canadian Federal Election if ‘everyone’ had
-  voted
-Author: "Xinyun Zhang, ID1004712563"
-Date: "08/12/2020"
-output:
-  pdf_document: default
-  html_document: default
+title: "General Prediction of the 2019 Canadian Federal Election if ‘everyone’ had voted"
+author: "Xinyun Zhang, ID1004712563"
+date: "08/12/2020"
+output: pdf_document
 ---
+
 # Abstract
 Voting and elections are crucial to one nation's democracy. Therefore, a study on 2019 Canadian Federal Election has been made in the sections below. By building multi-level regression with post-stratification on 2019 CES and 2017 GSS data, the predicted outcome of the 2019 Canadian Federal Election under the assumption that everyone over 18 has voted would be made. From the models and results of BIC, the importance of factors that might impact the preference of voter will be analyzed as well. Generally, this analysis demonstrates the relationship between voters' characterization and the outcome of the election. 
 
