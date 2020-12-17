@@ -1,8 +1,8 @@
 ---
 title: General Prediction of the 2019 Canadian Federal Election if ‘everyone’ had
   voted
-Author: Xinyun Zhang, ID1004712563
-Date: 08/12/2020
+Author: "Xinyun Zhang, ID1004712563"
+Date: "08/12/2020"
 output:
   pdf_document: default
   html_document: default
